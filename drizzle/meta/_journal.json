@@ -8,6 +8,13 @@
       "when": 1760863304867,
       "tag": "0000_illegal_mauler",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1760863810745,
+      "tag": "0001_fast_lethal_legion",
+      "breakpoints": true
     }
   ]
 }
